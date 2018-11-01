@@ -1,0 +1,76 @@
+Uri: http://www.parneet.info/
+File Name: c:\Downloaded Web Sites\parneet.info\index.html
+Content Type: text/html
+
+Uri: http://www.parneet.info/favicon.png
+File Name: c:\Downloaded Web Sites\parneet.info\favicon.png
+Content Type: image/png
+
+Uri: http://www.parneet.info/index_files/animations.min.js.download
+File Name: c:\Downloaded Web Sites\parneet.info\index_files\animations.min.js.download
+Content Type: application/javascript
+
+Uri: http://www.parneet.info/index_files/comboBoxInput.min.js.download
+File Name: c:\Downloaded Web Sites\parneet.info\index_files\comboBoxInput.min.js.download
+Content Type: application/javascript
+
+Uri: http://www.parneet.info/index_files/balata.min.js.download
+File Name: c:\Downloaded Web Sites\parneet.info\index_files\balata.min.js.download
+Content Type: application/javascript
+
+Uri: http://www.parneet.info/index_files/backgroundCommon.min.js.download
+File Name: c:\Downloaded Web Sites\parneet.info\index_files\backgroundCommon.min.js.download
+Content Type: application/javascript
+
+Uri: http://www.parneet.info/index_files/buttonCommon.min.js.download
+File Name: c:\Downloaded Web Sites\parneet.info\index_files\buttonCommon.min.js.download
+Content Type: application/javascript
+
+Uri: http://www.parneet.info/index_files/compDesignUtils.min.js.download
+File Name: c:\Downloaded Web Sites\parneet.info\index_files\compDesignUtils.min.js.download
+Content Type: application/javascript
+
+Uri: http://www.parneet.info/index_files/audioCommon.min.js.download
+File Name: c:\Downloaded Web Sites\parneet.info\index_files\audioCommon.min.js.download
+Content Type: application/javascript
+
+Uri: http://www.parneet.info/index_files/color.min.js.download
+File Name: c:\Downloaded Web Sites\parneet.info\index_files\color.min.js.download
+Content Type: application/javascript
+
+Uri: http://www.parneet.info/index_files/bluebird.min.js.download
+File Name: c:\Downloaded Web Sites\parneet.info\index_files\bluebird.min.js.download
+Content Type: application/javascript
+
+Uri: http://www.parneet.info/index_files/column.min.js.download
+File Name: c:\Downloaded Web Sites\parneet.info\index_files\column.min.js.download
+Content Type: application/javascript
+
+Uri: http://www.parneet.info/index_files/backToTopButton.min.js.download
+File Name: c:\Downloaded Web Sites\parneet.info\index_files\backToTopButton.min.js.download
+Content Type: application/javascript
+
+Uri: http://www.parneet.info/index_files/audioPlayer.min.js.download
+File Name: c:\Downloaded Web Sites\parneet.info\index_files\audioPlayer.min.js.download
+Content Type: application/javascript
+
+Uri: http://www.parneet.info/index_files/boxSlideShowSlide.min.js.download
+File Name: c:\Downloaded Web Sites\parneet.info\index_files\boxSlideShowSlide.min.js.download
+Content Type: application/javascript
+
+Uri: http://www.parneet.info/index_files/bgImageStrip.min.js.download
+File Name: c:\Downloaded Web Sites\parneet.info\index_files\bgImageStrip.min.js.download
+Content Type: application/javascript
+
+Uri: http://www.parneet.info/index_files/checkbox.min.js.download
+File Name: c:\Downloaded Web Sites\parneet.info\index_files\checkbox.min.js.download
+Content Type: application/javascript
+
+Uri: http://www.parneet.info/index_files/92f247_1947c762daa94793adc794f422d3fff2-mv2_d_2000_2000_s_2.png
+File Name: c:\Downloaded Web Sites\parneet.info\index_files\92f247_1947c762daa94793adc794f422d3fff2-mv2_d_2000_2000_s_2.png
+Content Type: image/png
+
+Uri: http://www.parneet.info/index_files/002e96d531a34b21baccae7116ccc8be.webp
+File Name: c:\Downloaded Web Sites\parneet.info\index_files\002e96d531a34b21baccae7116ccc8be.webp
+Content Type: image/webp
+
